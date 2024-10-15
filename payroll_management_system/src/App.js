@@ -73,6 +73,7 @@ const App = () => {
         fallback={
           <div className="pt-3 text-center">
             <CSpinner color="primary" variant="grow" />
+            <h1>hi</h1>
           </div>
         }
       >
